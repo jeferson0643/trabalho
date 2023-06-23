@@ -1,0 +1,14 @@
+:root{
+        --cor-de-fundo: #44c5b5:
+        var(--cor-de-fundo) 
+}.body{
+background-color: var(--cor-de-fundo);
+
+}
+.c1{
+    justify-content: center;
+    display: flex;
+    padding: 24px 0;
+     
+    
+}
